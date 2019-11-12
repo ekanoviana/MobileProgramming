@@ -1,5 +1,6 @@
 # PemrogramanPerangkatBergerak
 1. My First Exercise
+
 ![MyFirstExercise](https://user-images.githubusercontent.com/54837910/68644141-aad29b00-0546-11ea-8779-6dd8572dcfae.png)
 
 2. My Intent App
@@ -21,11 +22,13 @@
 ![4 TampilanDonasi](https://user-images.githubusercontent.com/54837910/68644191-cd64b400-0546-11ea-9065-ccf30d4b9205.jpeg)
 
 4. SignUp App
+
 ![1TampilanAwal](https://user-images.githubusercontent.com/54837910/68644202-d35a9500-0546-11ea-970f-b89f780e02ec.jpeg)
 ![2TampilanKetikaDiberiInput](https://user-images.githubusercontent.com/54837910/68644205-d5245880-0546-11ea-8dde-0d8c4e1cbe6f.jpeg)
 ![3TampilanSignUp](https://user-images.githubusercontent.com/54837910/68644210-d6ee1c00-0546-11ea-8991-b4774b93863c.jpeg)
 
 5. My Action Bar
+
 ![ActionBar1](https://user-images.githubusercontent.com/54837910/68644218-e1101a80-0546-11ea-8731-59e38e432822.jpeg)
 ![ActionBar2](https://user-images.githubusercontent.com/54837910/68644220-e2d9de00-0546-11ea-9199-aadebe8e1594.jpeg)
 ![ActionBar3](https://user-images.githubusercontent.com/54837910/68644222-e53c3800-0546-11ea-8f3c-68180cd788b1.jpeg)
@@ -33,15 +36,18 @@
 ![ActionBar5](https://user-images.githubusercontent.com/54837910/68644230-ea998280-0546-11ea-88e0-7e3e4ee93b6e.jpeg)
 
 6. Flexible Fragment
+
 ![fragment1](https://user-images.githubusercontent.com/54837910/68644242-f2592700-0546-11ea-8c6a-6d46a9a0dae5.jpeg)
 ![fragment2](https://user-images.githubusercontent.com/54837910/68644244-f4bb8100-0546-11ea-8dfc-1467949f35de.jpeg)
 ![fragment3](https://user-images.githubusercontent.com/54837910/68644250-f71ddb00-0546-11ea-9bef-e7bfe7e57741.jpeg)
 
 7. My RecyclerView
+
 ![ss](https://user-images.githubusercontent.com/54837910/68644383-685d8e00-0547-11ea-9246-79a17565788f.jpeg)
 ![ss2](https://user-images.githubusercontent.com/54837910/68644393-6e536f00-0547-11ea-9ebd-d8aa1c5765f1.jpeg)
 
 8. HMJPolines
+
 ![HMJ1](https://user-images.githubusercontent.com/54837910/68644258-fd13bc00-0546-11ea-8f83-4681272228df.jpeg)
 ![HMJ2](https://user-images.githubusercontent.com/54837910/68644260-fedd7f80-0546-11ea-85e2-0816c34c7b1b.jpeg)
 ![HMJ3](https://user-images.githubusercontent.com/54837910/68644272-10bf2280-0547-11ea-920b-404833cab727.jpeg)
@@ -49,6 +55,7 @@
 ![HMJ5](https://user-images.githubusercontent.com/54837910/68644283-174d9a00-0547-11ea-837f-ce80f1ea598a.jpeg)
 
 9. Submission UTS 
+
 ![Submission1](https://user-images.githubusercontent.com/54837910/68644293-1d437b00-0547-11ea-852c-248dd3667ef9.jpeg)
 ![Submission2](https://user-images.githubusercontent.com/54837910/68644300-216f9880-0547-11ea-95e1-fc0ee11791c9.jpeg)
 ![Submission3](https://user-images.githubusercontent.com/54837910/68644302-23d1f280-0547-11ea-95c1-0a5cdd038af7.jpeg)
