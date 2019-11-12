@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBar">#95cefc</color>
+    <color name="colorHighlight">#425B99</color>
+    <color name="colorBayar">#305ba1</color>
+    <color name="colorTextBayar">#ffffff</color>
+    <color name="colorHigh">#ffb5df</color>
+</resources>

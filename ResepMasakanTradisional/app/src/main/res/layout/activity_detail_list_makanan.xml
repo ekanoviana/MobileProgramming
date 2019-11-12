@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailListMakanan"
+    android:background="@drawable/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="600px"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/img_detail"
+            android:layout_width="match_parent"
+            android:layout_height="600px"
+            android:layout_gravity="center_horizontal"
+            android:scaleType="fitXY"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginHorizontal="10dp">
+        <TextView
+            android:id="@+id/nama_makanan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:text="Nama Makanan"
+            android:textColor="@color/cardview_dark_background"
+            android:background="@drawable/judul_makanan"
+            android:fontFamily="serif"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:padding="15dp"/>
+
+        <TextView
+            android:id="@+id/desc_detail"
+            android:background="@drawable/radius"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="desc"
+            android:gravity="fill_horizontal"
+            android:fontFamily="sans-serif-condensed"
+            android:textSize="16sp"
+            android:layout_marginBottom="10dp"
+            android:padding="20dp"/>
+    </LinearLayout>
+</LinearLayout>

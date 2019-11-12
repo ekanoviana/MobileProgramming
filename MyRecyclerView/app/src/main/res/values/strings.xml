@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="hmj_name">HMJ Polines</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>HMJ Elektro</item>
+        <item>HMJ Sipil</item>
+        <item>HMJ Mesin</item>
+        <item>HMJ Akuntansi</item>
+        <item>HMJ Administrasi Bisnis</item>
+        <item>UKM PCC</item>
+        <item>UKM Konsep</item>
+        <item>UKM PP</item>
+        <item>UKM Kopma</item>
+        <item>UKM PECC</item>
+        <item>UKM Kewirausahaan</item>
+        <item>LPM Dimensi</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Himpunan Mahasiswa Jurusan Teknik Elektro adalah salah satu Himpun an Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organ isasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tek nik Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Sipil adalah salah satu Himpunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik Sipil untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Mesin adalah salah satu Himpunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik Mesin untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Akutansi adalah salah satu Himpunan Mah asiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan akutansi untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Administrasi Bisnis adalah salah satu Himpunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusa n Administrasi Bisnis untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Unit Kegiatan Mahasiswa Polytechnic Computer Club atau biasa disin gkat UKM PCC, merupakan organisasi di Politeknik Negeri Semarang yang bergerak di bidang informasi dan teknologi. UKM Polytechnic Computer Club secara eksplisit terbagi menjadi dua bagian inti, yaitu Workshop dan Organisasi.</item>
+        <item>UKM Komunitas Seni Polines merupakan satusatunya unit kegiatan mahasiswa di Politeknik Negeri Semarang yang bergerak di bidang Kesenian. Nama UKM Komunitas Seni Polines diresmikan pada tanggal 21 Juni 2003. Fungsi UKM KoNSeP adalah sebagai satu satunya sarana pembangunan dan penyaluran minat dan bakat Mahasiswa Polines dala m bidang seni dan berorganisasi.</item>
+        <item>UKM Pengembangan Pengetahuan yang disingkat UKM PP merupakan salah satu Unit Kegiatan Mahasiswa di Politeknik Negeri Semarang yang sudah cukup berumur dan dibentuk pada tanggal 12 Mei 1997. </item>
+        <item>Koperasi Mahasiswa Bahtera Manunggal adalah Unit Kegiatan Mahasiswa (UKM) di Politeknik Negeri Semarang (Polines) yang bergerak dibidang ekonomi bisnis, yang beranggotakan seluruh mahasiswa Polines, sedangkan yang membedakan dengan UKM yang lainnya yaitu Koperasi Mahasiswa Bahtera Manunggal telah berbadan hukum</item>
+        <item>UKM PECC merupakan unit kegiatan mahasiswa yang bertujuan untuk meningkatkan kemampuan penggunaan keterampilan berbahasa Inggris bagi anggota aktif pada khususnya mahasiswa Politeknik Negeri Semarang pada umumnya. Berdiri sejak 10 Oktober 1994.</item>
+        <item>Unit Kegiatan Mahasiswa Kewirausahaan atau biasa disingkat UKM KWU, merupakan salah satu Unit Kegiatan Mahasiswa di Politeknik Negeri Semarang yang bergerak di bidang ekonomi. UKM Kewirausahaan dipimpin oleh seorang ketua yang biasa disebut Direktur</item>
+        <item>Dimensi merupakan satu-satunya Lembaga Pers Mahasiswa (LPM) yang berada di lingkaran Keluarga Besar Mahasiswa (KBM) Politeknik Negeri Semarang. </item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://i.postimg.cc/QxdcLRBk/hme.jpg</item>
+        <item>https://i.postimg.cc/yxBXSxYw/hms.jpg</item>
+        <item>https://i.postimg.cc/LsL1BS7R/hmm.jpg</item>
+        <item>https://i.postimg.cc/3NS4Jxyj/hmak.jpg</item>
+        <item>https://i.postimg.cc/pLYvD1Z4/hmab.jpg</item>
+        <item>https://i.postimg.cc/8PGrdsgC/pcc.png</item>
+        <item>https://i.postimg.cc/QC3VqYPz/konsep.png</item>
+        <item>https://www.ukmpp.org/assets/images/favicon.png</item>
+        <item>https://3.bp.blogspot.com/-KyTS0A3AczE/WNB-pO2_m-I/AAAAAAAAAsE/HGc-LPwChJQLLW8SM7eA5fuHaAH0suDcACLcB/s1600/kopma2.png</item>
+        <item>https://pbs.twimg.com/profile_images/470749800191651840/CdG3Og_c_400x400.jpeg</item>
+        <item>http://1.bp.blogspot.com/-CPCngCa5SeI/VNVz7ZaMPXI/AAAAAAAAAx8/pg7zMjna8KI/s200/logo%2Bcopy.png</item>
+        <item>https://lh3.googleusercontent.com/proxy/2bb8j5kmrLgU2XOSWh8Xck6fj73ds_oNzaFR1x_q471EQe2jbOJLkt2lplCNLibo2uFB7UaIa-0zcFHv_VFc-ymRAA-qTNkLuKeUAk93LkA=w1200-h630-p-k-no-nu</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DonasiActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbarku"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="30dp"
+            android:background="@color/colorBar">
+            <TextView
+                android:id="@+id/titlebar"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@color/colorBar"
+                android:text="Donasi   "
+                android:textSize="30sp"
+                android:textColor="@color/colorHighlight"
+                android:textStyle="bold"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginHorizontal="@dimen/activity_horizontal_layout"/>
+        </androidx.appcompat.widget.Toolbar>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/nama"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_vertical_layout"
+            android:layout_marginRight="@dimen/activity_vertical_layout"
+            app:boxStrokeColor="@color/colorPrimary"
+            android:textColorHint="@color/colorPrimaryDark"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="@dimen/activity_horizontal_layout"
+                android:layout_marginRight="@dimen/activity_horizontal_layout"
+                android:layout_marginLeft="@dimen/activity_horizontal_layout"
+                android:padding="15dp"
+                android:ems="10"
+                android:hint="Nama Anda"
+                android:textSize="16sp"
+                android:inputType="text"
+                android:id="@+id/ETNama"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_vertical_layout"
+            android:layout_marginRight="@dimen/activity_vertical_layout"
+            app:boxStrokeColor="@color/colorPrimary"
+            android:textColorHint="@color/colorPrimaryDark"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="@dimen/activity_horizontal_layout"
+                android:layout_marginRight="@dimen/activity_horizontal_layout"
+                android:layout_marginLeft="@dimen/activity_horizontal_layout"
+                android:padding="15dp"
+                android:ems="10"
+                android:hint="Alamat Email"
+                android:textSize="16sp"
+                android:inputType="textEmailAddress"
+                android:id="@+id/ETEmail"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/jmldonasi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_vertical_layout"
+            android:layout_marginRight="@dimen/activity_vertical_layout"
+            app:boxStrokeColor="@color/colorPrimary"
+            android:textColorHint="@color/colorPrimaryDark"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="@dimen/activity_horizontal_layout"
+                android:layout_marginRight="@dimen/activity_horizontal_layout"
+                android:layout_marginLeft="@dimen/activity_horizontal_layout"
+                android:padding="15dp"
+                android:ems="10"
+                android:hint="Jumlah Donasi"
+                android:textSize="16sp"
+                android:inputType="number"
+                android:id="@+id/ETDonasi"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tambahan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_vertical_layout"
+            android:layout_marginRight="@dimen/activity_vertical_layout"
+            app:boxStrokeColor="@color/colorPrimary"
+            android:textColorHint="@color/colorPrimaryDark"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="@dimen/activity_horizontal_layout"
+                android:inputType="textMultiLine"
+                android:lines="5"
+                android:layout_marginRight="@dimen/activity_horizontal_layout"
+                android:layout_marginLeft="@dimen/activity_horizontal_layout"
+                android:padding="15dp"
+                android:ems="10"
+                android:hint="Tambahan Catatan"
+                android:textSize="16sp"
+                android:gravity="top"
+                android:id="@+id/ETTambahan"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/activity_horizontal_layout"
+            android:layout_marginVertical="@dimen/activity_vertical_layout"
+            android:layout_marginTop="50dp"
+            android:layout_gravity="center"
+            android:background="@color/colorBayar"
+            android:textColor="@color/colorTextBayar"
+            android:textColorHighlight="@color/colorHigh"
+            android:text="Pembayaran"/>
+
+
+    </LinearLayout>
+
+</ScrollView>
