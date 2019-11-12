@@ -3,6 +3,7 @@
 ![MyFirstExercise](https://user-images.githubusercontent.com/54837910/68644141-aad29b00-0546-11ea-8779-6dd8572dcfae.png)
 
 2. My Intent App
+
 ![1 home](https://user-images.githubusercontent.com/54837910/68644148-af974f00-0546-11ea-81af-b5c2efa78138.jpeg)
 ![2 move activity](https://user-images.githubusercontent.com/54837910/68644150-b1611280-0546-11ea-9b0a-1de304603b6f.jpeg)
 ![3 move activity with data](https://user-images.githubusercontent.com/54837910/68644156-b3c36c80-0546-11ea-8f59-f7cb5ce2e4f2.jpeg)
@@ -13,6 +14,7 @@
 ![8 polines jaya](https://user-images.githubusercontent.com/54837910/68644175-c047c500-0546-11ea-90c7-9a513b69ce1a.jpeg)
 
 3. My View and Views
+
 ![1 tampilan awal](https://user-images.githubusercontent.com/54837910/68644182-c6d63c80-0546-11ea-8236-6e22b56612b2.jpeg)
 ![2 tampilan awal](https://user-images.githubusercontent.com/54837910/68644185-c9d12d00-0546-11ea-9f86-a6e9df073841.jpeg)
 ![3 TampilanDonasi](https://user-images.githubusercontent.com/54837910/68644189-cc338700-0546-11ea-889e-a1d58cd3d4dd.jpeg)
