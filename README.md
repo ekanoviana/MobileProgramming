@@ -1,7 +1,7 @@
 # PemrogramanPerangkatBergerak
 1. My First Exercise
 
-<img src ="https://user-images.githubusercontent.com/54837910/68644141-aad29b00-0546-11ea-8779-6dd8572dcfae.png" width=200px height=500px>
+<img src ="https://user-images.githubusercontent.com/54837910/68644141-aad29b00-0546-11ea-8779-6dd8572dcfae.png" width=300px height=450px>
 
 2. My Intent App
 
