@@ -1,4 +1,4 @@
-SIGNUP APP
+SIGNUP APPKU
 
 Tampilan Awal
 
