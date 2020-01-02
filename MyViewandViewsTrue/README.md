@@ -1,4 +1,4 @@
-3. My View and Views
+MY VIEW AND VIEWS
 
 Tampilan Awal
 
