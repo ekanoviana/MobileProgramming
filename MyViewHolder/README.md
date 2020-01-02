@@ -7,4 +7,4 @@ Potrait
 
 Landscape
 
-<img src ="https://user-images.githubusercontent.com/54837910/71699213-13285500-2df1-11ea-8081-b1812284e9c5.jpeg" width=400px height=650px>
+<img src ="https://user-images.githubusercontent.com/54837910/71699213-13285500-2df1-11ea-8081-b1812284e9c5.jpeg" width=650px height=650px>
