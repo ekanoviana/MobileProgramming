@@ -12,4 +12,5 @@
     <string name="total">Total Harga : </string>
     <string name="save">Simpan</string>
     <string name="update">Update</string>
+    <string name="delete">Hapus</string>
 </resources>
