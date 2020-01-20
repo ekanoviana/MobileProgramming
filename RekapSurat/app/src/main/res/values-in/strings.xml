@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rekap Surat</string>
+    <string name="register">Daftar</string>
+    <string name="email">email</string>
+    <string name="password">sandi</string>
+    <string name="ket_login">sudah punya akun? silakan login</string>
+    <string name="nomor">No. Surat</string>
+    <string name="pengirim">Pengirim</string>
+    <string name="deskripsi">Isi Surat</string>
+    <string name="save">Simpan</string>
+    <string name="update">Ubah</string>
+    <string name="login">Masuk</string>
+    <string name="signup_now">Belum punya akun? daftar disini</string>
+    <string name="rekap_surat">Aplikasi Rekap Surat</string>
+    <string name="input">Masukkan Detail Surat</string>
+    <string name="perihal">Perihal</string>
+    <string name="edit_input">Edit Data Surat</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="delete">Hapus</string>
+    <string name="profil">Profil</string>
+    <string name="required_failed">Harus diisi...</string>
+    <string name="processing">Proses...</string>
+    <string name="succes">Berhasil</string>
+    <string name="email_regist">Email harus diisi</string>
+    <string name="password_regist">Password harus diisi</string>
+    <string name="gagal">Gagal..</string>
+</resources>

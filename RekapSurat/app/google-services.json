@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1083474542027",
+    "firebase_url": "https://rekap-surat-masuk.firebaseio.com",
+    "project_id": "rekap-surat-masuk",
+    "storage_bucket": "rekap-surat-masuk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083474542027:android:9a87aa2342b67453c30a4e",
+        "android_client_info": {
+          "package_name": "com.nop.rekapsurat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083474542027-1ni877m9gbb5d2dda0v7is15hgn75j4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfWqK6aJsprtzIRO3z-QIrqTps5sOOfRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083474542027-1ni877m9gbb5d2dda0v7is15hgn75j4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

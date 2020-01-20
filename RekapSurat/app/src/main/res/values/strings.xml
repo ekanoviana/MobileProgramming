@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Letter Recap</string>
+    <string name="register">Register</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="ket_login">Already have an account? Login here</string>
+    <string name="nomor">Number</string>
+    <string name="pengirim">Sender</string>
+    <string name="deskripsi">Content</string>
+    <string name="save">Save</string>
+    <string name="update">Edit</string>
+    <string name="login">Login</string>
+    <string name="signup_now">Don\'t have an account? Register here</string>
+    <string name="rekap_surat">Letter Recap Application</string>
+    <string name="input">Input Letter Details</string>
+    <string name="perihal">Subject</string>
+    <string name="edit_input">Change Letter Data</string>
+    <string name="tambah_data">Add Data</string>
+    <string name="delete">Delete</string>
+    <string name="profil">Profil</string>
+    <string name="required_failed">Required Field...</string>
+    <string name="processing">Processing...</string>
+    <string name="succes">Successful</string>
+    <string name="email_regist">Email must be filled</string>
+    <string name="password_regist">Password must be filled</string>
+    <string name="gagal">Failed..</string>
+</resources>
