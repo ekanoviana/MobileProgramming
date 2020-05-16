@@ -1,4 +1,4 @@
-SUBMISSION UTS 
+SUBMISSION PROYEK
 
 <img src ="https://user-images.githubusercontent.com/54837910/68644293-1d437b00-0547-11ea-852c-248dd3667ef9.jpeg" width=400px height=650px>
 <img src ="https://user-images.githubusercontent.com/54837910/68644300-216f9880-0547-11ea-95e1-fc0ee11791c9.jpeg" width=400px height=650px>
